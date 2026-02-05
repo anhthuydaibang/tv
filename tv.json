@@ -43,5 +43,25 @@
     "name": "Socolive",
     "url": "http:\/\/tt.8share.pro\/socolive",
     "logo": "https:\/\/tt.8share.pro\/assets\/socolive_logo.png"
+  },
+  {
+    "name": "Bún Chả TV",
+    "url": "https:\/\/tt.8share.pro\/buncha",
+    "logo": ""
+  },
+  {
+    "name": "Streamed",
+    "url": "https:\/\/tt.8share.pro\/streamed",
+    "logo": ""
+  },
+  {
+    "name": "FPT",
+    "url": "https:\/\/iptv.nhadai.org\/v1",
+    "logo": ""
+  },
+  {
+    "name": "CaKhiaTV",
+    "url": "https:\/\/cktv.pro",
+    "logo": ""
   }
 ]
